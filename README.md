@@ -13,6 +13,6 @@
 <a href="https://www.instagram.com/anapaula_.lemes/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 
 <p>-----------------------------------------------------------------------------------------------------------------------------------------------------------</p>
-<H2>MONSTRO ELÉTRICO <a href="https://anapaulalemes.github.io/monstro-eletrico/"></H2>
+<H2>MONSTRO ELÉTRICO</H2>
 
-![Tentacle Animation](https://github.com/anapaulalemes/monstro-eletrico/blob/main/ezgif.com-video-to-gif.gif)
+<a href="https://anapaulalemes.github.io/monstro-eletrico/"><img src="https://github.com/anapaulalemes/monstro-eletrico/blob/main/ezgif.com-video-to-gif.gif"></a>
