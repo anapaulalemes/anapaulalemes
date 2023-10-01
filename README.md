@@ -11,5 +11,7 @@
 <h4>Redes sociais que utilizo: :wave:</h4>
 <a href="https://www.linkedin.com/in/ana-paula-lemes-845a67215/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/anapaula_.lemes/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-          
-[!Tentacle Animation](https://github.com/anapaulalemes/monstro-eletrico/blob/main/Animation.png)](https://anapaulalemes.github.io/monstro-eletrico/)
+
+<p>--------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
+
+![Tentacle Animation](https://github.com/anapaulalemes/monstro-eletrico/blob/main/ezgif.com-video-to-gif.gif)
