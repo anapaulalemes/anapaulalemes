@@ -8,7 +8,7 @@
 <img width='80' height='80' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 </div style>
 
-<h4>Redes sociais que utilizo: :wave:</h4>
+<h4>Redes sociais que eu utilizo: :wave:</h4>
 <a href="https://www.linkedin.com/in/ana-paula-lemes-845a67215/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/anapaula_.lemes/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 
