@@ -1,4 +1,4 @@
-<h1>Hello, there! :rocket:</h1>
+<h1>Hello, there!! :rocket:</h1>
 
 <h3>:computer: Atualmente estou mais focada em:</h3>
 <div style: "display:inline">
